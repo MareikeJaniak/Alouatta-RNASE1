@@ -1,2 +1,2 @@
 # Alouatta-RNASE1
-scripts used for assembly of RNASE1 genes
+Scripts used for assembly of RNASE1 genes
